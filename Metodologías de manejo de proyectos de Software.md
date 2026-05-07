@@ -17,3 +17,18 @@ Este repositorio contiene una investigación sobre diferentes metodologías util
 - Investigación teórica
 - Ejemplos enfocados al desarrollo de software
 - Código de ejemplo en Python
+## Metodologías investigadas
+- Agile
+- Scrum
+- Kanban
+- Waterfall
+- Lean
+- DevOps
+- Extreme Programming (XP)
+- Six Sigma
+
+## Contenido del repositorio
+- Investigación teórica
+- Ejemplos enfocados al desarrollo de software
+- Código de ejemplo en Python
+
